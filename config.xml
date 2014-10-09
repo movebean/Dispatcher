@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+				<server name="dispatcher" ip="127.0.0.1" port="32202"/>
+				<targets>
+								<server name="ubuntu" ip="192.168.194.130" port="32201"/>
+								<server name="ubuntu 64-bit" ip="192.168.194.131" port="32201"/>
+				</targets>
+</root>
